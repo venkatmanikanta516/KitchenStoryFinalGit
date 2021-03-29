@@ -4,6 +4,7 @@ Technology Information :
 IDE: STS(for BackEnd App),VS Code (for FrontEnd App)
 Project Type: SpringBoot Rest Web Application
 DataBase: MySql
+Used FrameWorks:Angular,SpringBoot Rest API
 port No : 4200
 
 
