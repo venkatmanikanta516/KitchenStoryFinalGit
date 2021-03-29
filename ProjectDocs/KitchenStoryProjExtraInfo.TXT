@@ -1,0 +1,25 @@
+
+Technology Information :
+========================
+IDE: STS(for BackEnd App),VS Code (for FrontEnd App)
+Project Type: SpringBoot Rest Web Application
+DataBase: MySql
+port No : 4200
+
+
+Admin Credentials :
+=================
+User Name :: ram
+Password :: ram1234
+
+Mysql Connection Properties Location in Project :
+=================================================
+/KitchenStory_BackEnd/src/main/resources/application.properties
+
+
+SourceCode GithubLink:
+=========================
+
+https://github.com/venkatmanikanta516/KitchenStoryFinalGit.git
+
+
